@@ -1,0 +1,21 @@
+| Name                        | Last modified     | Size |
+|-----------------------------|-------------------|------|
+| 20161224.bin                | 24-Dec-2016 17:15 | 6.8M |
+| 20170211L.bin               | 01-Apr-2017 18:45 | 6.8M |
+| 20170527.bin                | 27-May-2017 13:18 | 6.5M |
+| 20170527V.bin               | 27-May-2017 13:28 | 6.3M |
+| datasheet.zip               | 08-Dec-2016 04:29 | 13M  |
+| factory                     | 02-Dec-2016 10:16 | 12K  |
+| factory.zip                 | 08-Dec-2016 04:35 | 6.8K |
+| firmware.bin                | 24-Dec-2016 17:15 | 6.8M |
+| mem.zip                     | 08-Dec-2016 04:48 | 5.9K |
+| mt7628-p4rev-113862.tar.bz2 | 01-May-2017 07:17 | 1.5M |
+| openwrt.tar.bz2             | 31-Jan-2017 07:56 | 73M  |
+| source.zip                  | 17-Jan-2017 07:04 | 652K |
+| test.mp3                    | 27-Dec-2016 06:45 | 3.5  |
+| toolchain.tar.bz2           | 07-Dec-2016 15:31 | 31M  |
+| ultimate.16m.img            | 18-Nov-2016 04:05 | 16M  |
+| usb2ttl.zip                 | 30-Dec-2016 07:43 | 430K |
+| vocore2.fixbrick.zip        | 09-May-2017 19:02 | 6.4M |
+| vocore2.mtk.bin             | 26-May-2017 18:20 | 3.5M |
+| vocore2.poe.zip             | 29-Apr-2017 20:41 | 18K  |
